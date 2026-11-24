@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 170" role="img" aria-label="АМК Недра">
+  <g fill="#d0342c">
+    <path d="M52 6 L60 62 L30 74 L14 80 L30 86 L60 98 L52 154 L72 104 L96 96 L112 92 L112 88 L96 84 L72 76 Z"/>
+    <path d="M52 46 L57 78 L44 82 L57 87 L52 118 L63 89 L74 85 L66 81 Z" fill="#fff"/>
+    <ellipse cx="185" cy="83" rx="122" ry="64" fill="none" stroke="#d0342c" stroke-width="11"/>
+    <text x="132" y="82" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="bold" letter-spacing="1">АМК</text>
+    <text x="140" y="126" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="bold">недра</text>
+  </g>
+</svg>
